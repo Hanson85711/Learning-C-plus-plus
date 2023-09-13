@@ -17,8 +17,6 @@ int threeNames() {
   getline(cin,names[1]);
   getline(cin,names[2]);
   
-
-
   cout<<names[0]<<endl;
 
   return 0;
